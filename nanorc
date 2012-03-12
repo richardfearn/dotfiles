@@ -1,0 +1,4 @@
+set nowrap
+set nonewlines
+set const
+set tabsize 4
